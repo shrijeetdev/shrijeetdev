@@ -16,7 +16,7 @@ I build and ship products across AI, cybersecurity, web and creator marketing. H
 
 ## Building now
 
-| | |
+| Project | What it is |
 |---|---|
 | **[vexo.club](https://vexo.club)** | Influencer marketing and talent management company. One Next.js and Payload CMS platform running the public site, a creator portal, a brand dashboard and the staff desk. |
 | **[vexocore.io](https://vexocore.io)** | Vexocore IT Services: AI, cybersecurity and technology services for businesses. |
