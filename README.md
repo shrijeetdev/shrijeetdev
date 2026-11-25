@@ -1,6 +1,10 @@
-<h1>Shrijeet Singh</h1>
-
-<a href="https://shrijeetsingh.com"><img alt="Shrijeet Singh: full-stack developer, ethical hacker and IoT security researcher" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=3FB950&vCenter=true&width=640&lines=Co-founder+%26+CTO+%40+Vexocore;Full-stack+developer+%C2%B7+Ethical+hacker;IoT+%26+web+application+security+on+Parrot+OS;Building+AI+products+from+Delhi%2C+India"></a>
+<a href="https://shrijeetsingh.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+    <img alt="Shrijeet Singh: full-stack developer, ethical hacker and IoT security researcher. Co-founder and CTO of Vexocore." src="./assets/banner-dark.svg" width="100%">
+  </picture>
+</a>
 
 <p>
   <b>Co-founder &amp; CTO, <a href="https://vexocore.io">Vexocore</a></b> · Director, Machine Intelligence and Computing Research Foundation · Delhi, India
@@ -15,7 +19,7 @@
   <a href="https://github.com/shrijeetdev?tab=followers"><img alt="Follow shrijeetdev on GitHub" src="https://img.shields.io/badge/Follow_on_GitHub-111111?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
-Full-stack developer and ethical hacker. I build and ship products across AI, cybersecurity, web and creator marketing, and I test what I build the way an attacker would. Hands-on with the code, fast on execution, and fussy about design.
+I'm Shrijeet Singh, a full-stack developer and ethical hacker from Delhi, India. I build and ship products across AI, cybersecurity, web and creator marketing, and I test what I build the way an attacker would. Hands-on with the code, fast on execution, and fussy about design.
 
 ```console
 ┌─[shrijeet@parrot]─[~]
@@ -35,7 +39,7 @@ based    : Delhi, India
 | **[vexo.club](https://vexo.club)** | Influencer marketing and talent management company. One Next.js and Payload CMS platform running the public site, a creator portal, a brand dashboard and the staff desk. |
 | **[vexocore.io](https://vexocore.io)** | Vexocore IT Services: AI, cybersecurity and technology services for businesses. |
 | **[companybrain](https://github.com/shrijeetdev/companybrain)** | Open source (MIT) team operating system. Watches Email, Slack, WhatsApp, Telegram and Calendar, turns anything that needs a human into a tracked loop, and lets AI agents work through MCP with every action scoped, logged and reversible. |
-| **[scanmyface](https://github.com/shrijeetdev/scanmyface)** | Open source. GlowXLab: AI skin analysis and makeup guidance. |
+| **[scanmyface](https://github.com/shrijeetdev/scanmyface)** | Open source prototype. GlowXLab: guided 3-angle face scan, skin report, routine builder and habit tracking in Next.js. |
 | **Raw CTO** | Raw, unfiltered tech-industry insight on [YouTube](https://www.youtube.com/@rawcto) and [Instagram](https://www.instagram.com/rawcto). |
 
 ## Cybersecurity and ethical hacking
