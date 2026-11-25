@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+<title id="t">Shrijeet Singh: full-stack developer and ethical hacker</title>
+<desc id="d">Co-founder and CTO of Vexocore. Full-stack developer, ethical hacker and IoT security researcher working on Parrot OS, based in Delhi, India.</desc>
+<defs>
+  <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#161B22" stroke-width="1"/></pattern>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0D1117" stop-opacity="1"/><stop offset=".55" stop-color="#0D1117" stop-opacity=".6"/><stop offset="1" stop-color="#0D1117" stop-opacity="0"/></linearGradient>
+  <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#3FB950" stop-opacity=".18"/><stop offset="1" stop-color="#3FB950" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  .in{opacity:0;animation:in .45s ease-out forwards}
+  @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+  .cur{animation:blink 1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .scan{animation:scan 4.5s linear infinite}
+  @keyframes scan{from{transform:translateY(0)}to{transform:translateY(212px)}}
+  @media (prefers-reduced-motion:reduce){.in{animation:none;opacity:1}.cur,.scan{animation:none}}
+</style>
+<rect width="1200" height="340" rx="16" fill="#0D1117"/>
+<rect width="1200" height="340" rx="16" fill="url(#g)"/>
+<rect width="760" height="340" rx="16" fill="url(#fade)"/>
+<circle cx="890" cy="170" r="300" fill="url(#glow)"/>
+<rect x=".5" y=".5" width="1199" height="339" rx="15.5" fill="none" stroke="#30363D"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  <text x="56" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#3FB950" letter-spacing="2" class="in" style="animation-delay:.1s">// CO-FOUNDER &amp; CTO, VEXOCORE</text>
+  <text x="54" y="138" font-size="58" font-weight="700" fill="#E6EDF3" letter-spacing="-1.5" class="in" style="animation-delay:.25s">Shrijeet Singh</text>
+  <text x="56" y="182" font-size="22" fill="#E6EDF3" class="in" style="animation-delay:.45s">Full-stack developer <tspan fill="#3FB950">·</tspan> Ethical hacker</text>
+  <text x="56" y="214" font-size="22" fill="#E6EDF3" class="in" style="animation-delay:.6s">IoT &amp; web security on Parrot OS</text>
+  <g class="in" style="animation-delay:.8s" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13">
+    <rect x="56" y="248" width="94" height="28" rx="14" fill="none" stroke="#30363D"/><text x="103" y="267" text-anchor="middle" fill="#8B949E">AI</text>
+    <rect x="160" y="248" width="136" height="28" rx="14" fill="none" stroke="#30363D"/><text x="228" y="267" text-anchor="middle" fill="#8B949E">Cybersecurity</text>
+    <rect x="306" y="248" width="100" height="28" rx="14" fill="none" stroke="#30363D"/><text x="356" y="267" text-anchor="middle" fill="#8B949E">Web</text>
+    <rect x="416" y="248" width="120" height="28" rx="14" fill="none" stroke="#30363D"/><text x="476" y="267" text-anchor="middle" fill="#8B949E">Delhi, IN</text>
+  </g>
+</g>
+<g class="in" style="animation-delay:.3s">
+  <rect x="610" y="30" width="560" height="280" rx="12" fill="#010409" stroke="#30363D"/>
+  <path d="M622 30h536a12 12 0 0 1 12 12v22H610V42a12 12 0 0 1 12-12z" fill="#161B22"/>
+  <circle cx="632" cy="47" r="5.5" fill="#FF5F57"/><circle cx="650" cy="47" r="5.5" fill="#FEBC2E"/><circle cx="668" cy="47" r="5.5" fill="#28C840"/>
+  <text x="890.0" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8B949E">shrijeet@parrot: ~</text>
+</g>
+<clipPath id="tc"><rect x="610" y="64" width="560" height="246" rx="0"/></clipPath>
+<rect x="610" y="64" width="560" height="2" fill="#15E0ED" opacity=".08" class="scan" clip-path="url(#tc)"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5">
+  <text x="632" y="92" fill="#15E0ED" class="in" style="animation-delay:0.90s" xml:space="preserve">┌─[shrijeet@parrot]─[~]</text>
+  <text x="632" y="120" class="in" style="animation-delay:1.25s" xml:space="preserve"><tspan fill="#15E0ED">└──╼ $</tspan><tspan fill="#E6EDF3"> nmap -sV --top-ports 100 lab.local</tspan></text>
+  <text x="632" y="148" fill="#8B949E" class="in" style="animation-delay:1.80s" xml:space="preserve">   22/tcp ssh  ·  80/tcp http  ·  1883/tcp mqtt</text>
+  <text x="632" y="176" class="in" style="animation-delay:2.15s" xml:space="preserve"><tspan fill="#15E0ED">└──╼ $</tspan><tspan fill="#E6EDF3"> binwalk -e router_fw.bin</tspan></text>
+  <text x="632" y="204" fill="#8B949E" class="in" style="animation-delay:2.70s" xml:space="preserve">   squashfs filesystem → extracted, 3 findings</text>
+  <text x="632" y="232" class="in" style="animation-delay:3.05s" xml:space="preserve"><tspan fill="#15E0ED">└──╼ $</tspan><tspan fill="#E6EDF3"> ./ship --product vexo.club --secure</tspan></text>
+  <text x="632" y="260" fill="#3FB950" class="in" style="animation-delay:3.60s" xml:space="preserve">   ✓ build   ✓ tests   ✓ pentest   ✓ live</text>
+  <text x="632" y="288" class="in" style="animation-delay:3.95s"><tspan fill="#15E0ED">└──╼ $ </tspan><tspan class="cur" fill="#3FB950">█</tspan></text>
+</g>
+</svg>
