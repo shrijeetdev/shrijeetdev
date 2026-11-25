@@ -12,7 +12,7 @@
   <a href="https://www.youtube.com/@rawcto"><img alt="YouTube @rawcto" src="https://img.shields.io/badge/@rawcto-111111?style=flat-square&logo=youtube&logoColor=FF0000"></a>
   <a href="https://www.instagram.com/rawcto"><img alt="Instagram @rawcto" src="https://img.shields.io/badge/@rawcto-111111?style=flat-square&logo=instagram&logoColor=E4405F"></a>
   <a href="mailto:shrijeet@vexocore.in"><img alt="Email" src="https://img.shields.io/badge/shrijeet@vexocore.in-111111?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/shrijeetdev?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/shrijeetdev?style=flat-square&logo=github&label=Follow&color=111111"></a>
+  <a href="https://github.com/shrijeetdev?tab=followers"><img alt="Follow shrijeetdev on GitHub" src="https://img.shields.io/badge/Follow_on_GitHub-111111?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 Full-stack developer and ethical hacker. I build and ship products across AI, cybersecurity, web and creator marketing, and I test what I build the way an attacker would. Hands-on with the code, fast on execution, and fussy about design.
@@ -92,7 +92,7 @@ I work on offensive security with a defensive goal: find the weak spot before so
 
 ## Activity
 
-<a href="https://github.com/shrijeetdev"><img alt="Shrijeet Singh GitHub contribution streak" src="https://streak-stats.demolab.com?user=shrijeetdev&theme=transparent&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&date_format=j%20M%5B%20Y%5D"></a>
+<a href="https://github.com/shrijeetdev"><img alt="Shrijeet Singh GitHub contribution streak" src="https://streak-stats.demolab.com?user=shrijeetdev&theme=transparent&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&currStreakNum=3FB950&sideNums=3FB950&sideLabels=8B949E&dates=8B949E&date_format=j%20M%5B%20Y%5D"></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrijeetdev/shrijeetdev/output/github-snake-dark.svg">
